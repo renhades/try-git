@@ -9,3 +9,4 @@ Git commands
 - git checkout <branch-name>
 - git branch
 - git branch -D <branch-name>
+- git checkout -b <branch-name>
