@@ -7,3 +7,4 @@ Git commands
 - git pull origin <branch-name>
 - git status
 - git checkout <branch-name>
+- git branch
